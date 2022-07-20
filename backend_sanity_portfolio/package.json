@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Mandeep Singhmar <msingh8328@gmail.com>",
+  "author": "Saif Mohamed <sm4webd@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -30,6 +30,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:adrianhajdin/project_professional_portfolio.git"
+    "url": "git@github.com:saifmohamedsv/saifmohamedsv.git"
   }
 }
